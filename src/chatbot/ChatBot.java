@@ -75,7 +75,8 @@ public class ChatBot {
             System.out.println("Here are some commands I can help with:");
             System.out.println("Date, Sporting Events, Local Resuturants");
         }
- 
+        
+        System.out.println("Making a change here");
         
     }
     
